@@ -1,2 +1,2 @@
-	// newStr = newStr.join('');
-	// newStr.replace(/--+/g, '-');
+!= Number) return undefined;
+		// return x + arguments[1];
